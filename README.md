@@ -1,3 +1,3 @@
 # Kokoa Talk 2023
 
-Css got so much better!
+나의 첫 css html 공부
